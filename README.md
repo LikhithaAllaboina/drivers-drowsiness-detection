@@ -14,8 +14,5 @@ Transfer learning is frequently used to replace the final classification layer w
 Transfer learning can lower the amount of labelled training data required for a new task while also enhancing the model's generalisation performance. It's a powerful technique that's been used in a wide range of applications, including image classification, object recognition, and semantic segmentation.
 
 
-The alarm file has the sound we used as alarm
-
-the Data folder has the harcascade files
-
+The alarm file has the sound we used as alarm. the Data folder has the harcascade files
 cnnCat2.h5.ipynb is the cnn model used
