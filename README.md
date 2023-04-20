@@ -12,3 +12,10 @@ The deep learning algorithm we are using is CNN. The practise of reusing previou
 In transfer learning, a pre-trained CNN model is used as a starting point for a new job, such as image categorization or object recognition. The pre-trained model has typically been trained on a large dataset, such as ImageNet, and has learned a set of feature representations helpful for a variety of computer vision tasks.
 Transfer learning is frequently used to replace the final classification layer with a new classification layer that is specific to the new task. The weights of the previously trained layers are then frozen, and only the weights of the new classification layer are updated during training.
 Transfer learning can lower the amount of labelled training data required for a new task while also enhancing the model's generalisation performance. It's a powerful technique that's been used in a wide range of applications, including image classification, object recognition, and semantic segmentation.
+
+
+The alarm file has the sound we used as alarm
+
+the Data folder has the harcascade files
+
+cnnCat2.h5.ipynb is the cnn model used
