@@ -1,6 +1,8 @@
 # drivers-drowsiness-detection
 detecting drivers drowsiness using big data and deep learning
 
+20MIA1001 - Likhitha A, 20MIA1114 - C Jahnavi Lalasa, 20MIA1159 - Aishwarya K 
+
 Abstract: Out of all the accidents that occur in India it is estimated that 40% of the accidents occur due to drowsiness of the drivers. Our main objective of this project is to detect the pattern of accidents using the images taken from different angles for the drivers classify them using deep learning models and implement them in real time and check if our implementation is actually working. We will be using Python to show our modelling and real time experimenting and we will also show how we are going to alert the driver who would possibly be in danger if they become drowsy while driving in any situations with help of alarm system.
 
 Key Words: Drowsiness detection, CNN, Transfer learning, Real Time implementation
